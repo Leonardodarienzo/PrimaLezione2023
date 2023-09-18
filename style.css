@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color:black;
+}
+
+h1 {
+    color: white;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+img {
+    max-width: 30%;
+    height: 10%;
+}
+
+#immagineContainer{
+    display: none;
+}
